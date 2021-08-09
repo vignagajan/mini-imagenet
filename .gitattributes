@@ -1,0 +1,2 @@
+mini-imagenet.tar.gz filter=lfs diff=lfs merge=lfs -text
+mini_imagenet.tar.gz filter=lfs diff=lfs merge=lfs -text
